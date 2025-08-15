@@ -6,4 +6,4 @@ To run our codes, one needs to set up an OpenAI account to use the GPT-3.5 model
 
 
 ## References
-Xiaoshi Zhong, Yufei Zhao, Erik Cambria, and Jagath C. Rajapakse. **Prompting Large Language Models for Few-Shot Named Entity Recognition**. Under review, 2024.
+Yufei Zhao, Xiaoshi Zhong, Erik Cambria, and Jagath C. Rajapakse. **Large Language Models for Few-Shot Named Entity Recognition**. Under review.
